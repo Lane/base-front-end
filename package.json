@@ -1,0 +1,30 @@
+{
+  "name": "base-front-end",
+  "description": "front end environment for faster and easier web development.",
+  "version": "0.0.1",
+  "keywords": [
+    "less",
+    "handlebars"
+  ],
+  "author": "Lane Olson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lane/base-front-end"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "devDependencies": {
+    "grunt-cli": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-handlebars": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-http-server": "latest"
+  }
+}
